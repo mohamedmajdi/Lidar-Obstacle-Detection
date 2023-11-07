@@ -1,6 +1,6 @@
 # Table of contents
 
-- [Lidar Obstacle Detection overview](#lidar-obstacle-detection)
+- [Lidar Obstacle Detection overview](#lidar-obstacle-detection-overview)
 - [Work done using C++ Language](#work-done-using-c-language)
 - [Algorithm steps](#algorithm-steps)
 
