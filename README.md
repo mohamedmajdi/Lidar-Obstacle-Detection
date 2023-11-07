@@ -1,10 +1,10 @@
 # Table of contents
 
-- [Lidar Obstacle Detection](#lidar-obstacle-detection)
+- [Lidar Obstacle Detection overview](#lidar-obstacle-detection)
 - [Work done using C++ Language](#work-done-using-c-language)
 - [Algorithm steps](#algorithm-steps)
 
-# Lidar Obstacle Detection
+# Lidar Obstacle Detection overview
 filter, segment, and cluster real-point cloud data to detect obstacles in a driving environment.
 ![img](visualization.png)
 
