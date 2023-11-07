@@ -11,3 +11,5 @@ https://github.com/mohamedmajdi/Lidar-Obstacle-Detection/assets/69417860/98c273b
 2. 3D RANSAC segmentation of point cloud data
 3. Implementing Euclidean clustering with KD-Tree
 4. creating 3D bounding boxes around detected objects
+# Algorithm steps
+![LIDAR](https://github.com/mohamedmajdi/Lidar-Obstacle-Detection/assets/69417860/ed485962-85af-468c-9d12-de6dee1d5a95)
